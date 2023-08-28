@@ -5,7 +5,7 @@ function exec(){
     const saudacao = 'Falaa'
     return saudacao
 }
-const saudacao = 'Olá'
+
 //Objetos são grupos alinhados de pares nome/valor
 const cliente = {
     nome:Jota,
